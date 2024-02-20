@@ -1,4 +1,4 @@
-body{background:#68aca4; color: white; }
+body{background:#68aca4; color: white;font-size: 20px; }
 
 .topnav {
   overflow: hidden;
@@ -8,7 +8,7 @@ body{background:#68aca4; color: white; }
 .topnav a {
   float: left;
   display: block;
-  color: white;
+  color: #68aca4;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
