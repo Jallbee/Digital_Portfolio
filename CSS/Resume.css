@@ -1,6 +1,6 @@
 /* Global Styles */
 body {
-    background: #68aca4;
+    background: #75b2dd;
     color: black;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -51,7 +51,7 @@ main {
 
 section {
     margin-bottom: 40px;
-    background: #F8C8DC;
+    background: #FFF;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
